@@ -1,2 +1,7 @@
 Hello, this is a lesson 1 file.
 This is a new row
+
+Chapter 1
+=========
+
+Hello, this is a chapter 1.
